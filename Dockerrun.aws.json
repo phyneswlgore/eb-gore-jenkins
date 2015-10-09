@@ -1,0 +1,14 @@
+{
+
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "ckulka/jenkins",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "8080"
+    }
+  ]
+
+}
